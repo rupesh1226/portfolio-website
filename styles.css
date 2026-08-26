@@ -369,3 +369,10 @@ button {
   background-position: center !important;
   background-repeat: no-repeat !important;
 }
+
+.pt-ai-dashboard {
+  background-image: url("images/projects/AI-Dashboard.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+}
