@@ -25,10 +25,37 @@ const CERTS = {
     title: '🏆 Microsoft Certified: Fabric Data Engineer Associate',
     img:   'images/certificates/Microsoft-cert.jpg',
   },
+
+  dp_600: {
+    title: '🏆 Microsoft Certified: Fabric Analytics Engineer Associate',
+    img:   'images/certificates/dp_600-cert.jpg',
+  },
+  
   csdm: {
     title: '🏆 Certified Implementation Specialist - Data Foundations (CMDB & CSDM)',
     img:   'images/certificates/csdm-cert.jpg',
   },
+
+  Cloud_Practitioner: {
+    title: '🏆 AWS Certified Cloud Practitioner',
+    img:   'images/certificates/Cloud_Practitioner-cert.jpg',
+  },
+
+  AI_Practitioner: {
+    title: '🏆 AWS Certified AI Practitioner',
+    img:   'images/certificates/AI_Practitioner-cert.jpg',
+  },
+
+  Developer: {
+    title: '🏆 AWS Certified Developer - Associate',
+    img:   'images/certificates/Developer-cert.jpg',
+  },
+
+  Solutions_Architect: {
+    title: '🏆 AWS Certified Solutions Architect - Associate',
+    img:   'images/certificates/Solutions_Architect-cert.jpg',
+  },
+  
 };
 
 // ─── PROJECT LINK OPENER ────────────────────────────────────────
